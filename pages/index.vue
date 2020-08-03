@@ -3,19 +3,27 @@
     <div>
       <Logo />
       <h1 class="title">
-        Hello, nuxt!
+        0505Keitan
       </h1>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://0505Keitan.com/"
           target="_blank"
           rel="noopener noreferrer"
           class="button--green"
         >
-          Documentation
+          HOME
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://twitter.com/0505Keitan"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--blue"
+        >
+          Twitter
+        </a>
+        <a
+          href="https://github.com/0505Keitan"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
@@ -54,7 +62,7 @@ export default {}
     sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 100px;
+  font-size: 60px;
   color: #35495e;
   letter-spacing: 1px;
 }
