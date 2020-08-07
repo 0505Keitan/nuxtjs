@@ -31,13 +31,18 @@ html {
   margin: 0;
 }
 
-.button--green {
+.btn {
   display: inline-block;
   border-radius: 4px;
+  text-decoration: none;
+  padding: 10px 25px;
+  margin: 5px;
+  transition: 0.5s;
+}
+
+.button--green {
   border: 1px solid #3b8070;
   color: #3b8070;
-  text-decoration: none;
-  padding: 10px 30px;
 }
 
 .button--green:hover {
@@ -46,13 +51,8 @@ html {
 }
 
 .button--grey {
-  display: inline-block;
-  border-radius: 4px;
   border: 1px solid #35495e;
   color: #35495e;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-left: 15px;
 }
 
 .button--grey:hover {
@@ -61,17 +61,22 @@ html {
 }
 
 .button--blue {
-  display: inline-block;
-  border-radius: 4px;
   border: 1px solid #1DA1F2;
   color: #1DA1F2;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-left: 15px;
 }
 
 .button--blue:hover {
   color: #fff;
   background-color: #1DA1F2;
+}
+
+.button--red {
+  border: 1px solid #FF0000;
+  color: #FF0000;
+}
+
+.button--red:hover {
+  color: #fff;
+  background-color: #FF0000;
 }
 </style>

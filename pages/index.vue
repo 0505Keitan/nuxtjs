@@ -10,7 +10,7 @@
           href="https://0505Keitan.com/"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--green"
+          class="btn button--green"
         >
           HOME
         </a>
@@ -18,7 +18,7 @@
           href="https://twitter.com/0505Keitan"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--blue"
+          class="btn button--blue"
         >
           Twitter
         </a>
@@ -26,9 +26,17 @@
           href="https://github.com/0505Keitan"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--grey"
+          class="btn button--grey"
         >
           GitHub
+        </a>
+        <a
+          href="https://www.youtube.com/channel/UCthZ0_0JGg-Sic5z9x8n90w"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn button--red"
+        >
+          YouTube
         </a>
       </div>
     </div>
